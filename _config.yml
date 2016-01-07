@@ -1,7 +1,7 @@
 # Site wide configuration
 
-title:            Site Title
-locale:           en_US
+title:            WTF
+locale:           zh-CN
 url:
 
 
@@ -15,20 +15,21 @@ sass:
   style: compressed
 gems:
   - jekyll-sitemap
+  - jekyll-gist
 
 kramdown:
   auto_ids: true
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
-  use_coderay: false
+  enable_coderay: false
 
 
 # Site owner
 owner:
-  name: Your Name
+  name: robotutu
   avatar: bio-photo.jpg
-  bio: "Describe your self."
+  bio: "老子最帅！"
   email:
   disqus-shortname:
   twitter: #username
