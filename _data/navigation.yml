@@ -1,7 +1,10 @@
 # Site navigation links
 
+- title: Posts
+  url: /posts/
+
+- title:
+
+
 - title: About
   url: /about/
-
-- title: Sample Posts
-  url: /posts/
