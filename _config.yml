@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            WTF
+title:            Robotu
 locale:           zh-CN
-url:
+url:   
 
 
 # Jekyll configuration
