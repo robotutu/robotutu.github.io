@@ -15,8 +15,8 @@ body {
 .navigation-wrapper {
 	@include container;
 	//padding: 2em 0 1em;
-	height: 4em;
-	line-height: 4em;
+	height: 5em;
+	line-height: 5em;
 	background-color: #222;
 	font-family: $heading-font;
 	font-weight: 800;
@@ -313,7 +313,7 @@ $button-size: 1.5rem;
 	}
 	img {
 		width: 100%;
-		height: 5em;
+		height: 100px;
 		-ms-interpolation-mode: bicubic;
 	}
 	.headline-wrap {

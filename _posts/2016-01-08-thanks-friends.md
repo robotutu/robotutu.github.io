@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 感谢好心人
+title: 感谢
 modified:
-excerpt: 这里是简介？
+excerpt: 建站成功
 tags: []
 ---
 
