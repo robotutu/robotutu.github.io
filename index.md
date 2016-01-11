@@ -1,7 +1,7 @@
 ---
 layout: home
 excerpt: "robotutu's website"
-tags: [Jekyll, theme, responsive, blog, template]
+tags: [design,ux,fun,live]
 image:
   feature: sample-image-1.jpg
   credit: WeGraphics
