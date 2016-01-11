@@ -1,12 +1,13 @@
 # Site navigation links
 
-- title: Posts
-  url: /posts/
+- title: Design
+  url: /Design/
 
+- title: Fun
+  url: /Fun/
 
-- title: Photo
-  url: /photo
-
+- title: Library
+  url: /about/
 
 - title: About
-  url: /about/
+  url: /About/
