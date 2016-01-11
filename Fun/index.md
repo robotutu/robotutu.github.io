@@ -1,5 +1,5 @@
 ---
-layout: photo-index
+layout: fun-index
 title: All Photo
 excerpt: "A List of Posts"
 image:
