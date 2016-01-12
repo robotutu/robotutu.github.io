@@ -38,7 +38,7 @@
   <article class="post">
     <div class="headline-wrap">
       {% if page.link %}
-      <h1><a href="{{ page.link }}">{{ page.title }}</a></h1>
+        <h1><a href="{{ design.link }}">{{ page.title }}</a></h1>
       {% else %}
         <h1><a href="{{ site.url }}{{ page.url }}" rel="bookmark" title="{{ page.title }}">{{ page.title }}</a></h1>
       {% endif %}
@@ -60,10 +60,10 @@
 <div class="footer-wrap">
   {% if site.related_posts.size > 0 %}
   <div class="related-articles">
-  <h4>You might also enjoy <small class="pull-right">(<a href="{{ site.url }}/posts/">View all posts</a>)</small></h4>
+  <h4>You might also enjoy <small class="pull-right">(<a href="{{ site.url }}/design/">View all posts</a>)</small></h4>
     <ul>
     {% for post in site.related_posts limit:3 %}
-      <li><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+      <li><a href="{{ site.url }}{{ design.url }}" title="{{ design.title }}">{{ post.title }}</a></li>
     {% endfor %}
     </ul>
     <hr />
