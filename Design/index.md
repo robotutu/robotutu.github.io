@@ -1,5 +1,5 @@
 ---
 layout: design-index
-title: All Posts
+title: Design
 excerpt: "A List of Posts"
 ---

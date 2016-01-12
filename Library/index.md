@@ -1,5 +1,5 @@
 ---
-layout: fun-index
+layout: library
 title: Fun
 excerpt: "A List of Posts"
 image:
