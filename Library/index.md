@@ -1,5 +1,5 @@
 ---
-layout: library
+layout: nav-index
 title: Fun
 excerpt: "A List of Posts"
 image:
