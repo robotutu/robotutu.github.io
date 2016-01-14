@@ -21,6 +21,6 @@ image:
 - [Behance](https://www.behance.net/)
 - [Branding](http://www.brandingserved.com/)
 
-### Friend
+### Friends
 - [tobeyouth](http://tobeyouth.github.io/)
 - [Mooler3](http://tvvomomo.github.io/)
