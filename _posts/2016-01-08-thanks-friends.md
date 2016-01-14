@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: design-article
 title: 感谢
 modified:
 excerpt: 建站成功
