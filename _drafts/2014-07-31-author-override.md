@@ -2,7 +2,7 @@
 layout: post
 title: "Author Override"
 author: Dong_Fangfei
-modified:
+modified: 2016-10-10
 excerpt: "A post to test author overrides using a data file."
 tags: []
 ---

@@ -1,8 +1,8 @@
 ---
 layout: design-article
 title: 感谢
-modified:
 excerpt: 建站成功
+modified: 2016-10-10
 tags: [milestone]
 ---
 

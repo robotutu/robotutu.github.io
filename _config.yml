@@ -33,16 +33,16 @@ owner:
   bio: "Dance to the radio ."
   email: robotcheese711@gmail.com
   disqus-shortname:
-  twitter: robotuuu #username
+  twitter: robotuuuu #username
   facebook: #username
   google:
-    plus: #username
+    plus: 103178559007518162898 #username
     analytics:
     verify:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: robotutu #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username
@@ -60,4 +60,4 @@ owner:
   codepen: #username
 
 include: [".htaccess"]
-exclude: ["config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+exclude: [config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
