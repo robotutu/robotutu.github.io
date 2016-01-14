@@ -1,6 +1,6 @@
 ---
 layout: design-index
-title: Design
+title: Archive
 excerpt: "A List of Design"
 image:
   feature: banner-design.jpg
