@@ -8,6 +8,7 @@ url:
 # Jekyll configuration
 
 permalink:   /:categories/:title/
+relative_permalinks: true
 markdown:    kramdown
 highlighter: pygments
 sass:
@@ -31,12 +32,12 @@ owner:
   name: robotu
   avatar: px-robotu.jpg
   bio: "Dance to the radio ."
-  email: robotcheese711@gmail.com
+  email: 13581688226@163.com
   disqus-shortname:
   twitter: robotuuuu #username
   facebook: #username
   google:
-    plus: 103178559007518162898 #username
+    plus:  #username
     analytics:
     verify:
     ad-client:
@@ -55,9 +56,10 @@ owner:
   dribbble: #username
   youtube: #username
   soundcloud: #username
-  weibo: #username
+  weibo: robotutu #username
   flickr: #username
   codepen: #username
+
   programmingSkills:
     - skill1:
       name: HTML

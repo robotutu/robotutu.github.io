@@ -3,7 +3,8 @@ layout: design-article
 title: 感谢
 excerpt: 建站成功,感谢朋友们
 modified: 2016-10-10
-tags: [milestone]
+tags: [milestone,friends,thanks]
+category: [blog]
 ---
 
 

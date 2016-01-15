@@ -1,5 +1,5 @@
 ---
-layout: fun-index
+layout: post_by_category
 title: Fun
 excerpt: "A List of Posts"
 image:

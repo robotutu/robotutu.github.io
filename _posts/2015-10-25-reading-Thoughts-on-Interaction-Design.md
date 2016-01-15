@@ -3,8 +3,11 @@ layout: design-article
 title: 读书笔记《交互设计沉思录》
 excerpt: Reading on 《Thoughts on Interaction Design》
 tags: [Thoughts,Interaction,Design]
+category: [fun]
 ---
 ![ceshitupian](https://static.pexels.com/photos/21120/pexels-photo.jpg)
+
+
 
 ### 概述
 
@@ -54,3 +57,8 @@ tags: [Thoughts,Interaction,Design]
 
 > *P 193*    
 让设计摆脱商业的桎梏，自由发展壮大，已经是大势所趋。    
+
+---   
+![二维码](/images/reading-Thoughts-on-Interaction-Design.png)
+<br>
+给微信好友看看？

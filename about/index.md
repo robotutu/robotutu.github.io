@@ -13,6 +13,5 @@ image:
 一个简陋的个人网站。
 
 - 韩旻锴
--  
-
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+- 业余贝斯手  [>>](https://site.douban.com/mystery/)
+- 爱好蝙蝠侠和圣斗士
