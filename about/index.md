@@ -14,4 +14,4 @@ image:
 
 - 韩旻锴
 - 业余贝斯手  [>>](https://site.douban.com/mystery/)
-- 爱好蝙蝠侠和圣斗士
+- 蝙蝠侠爱好者
