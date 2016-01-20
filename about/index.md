@@ -1,17 +1,34 @@
 ---
 layout: page
-title: About
-tags: [about, Jekyll, theme, responsive]
-modified: 2014-08-08T20:53:07.573882-04:00
-comments: true
+title: About the Jekyll Theme
 image:
-  feature: banner-about.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: abstract-5.jpg
+  credit: dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+comments: false
+modified: 2014-12-24
 ---
 
-一个简陋的个人网站。
+They say three times the charm, so here is another free responsive Jekyll blog theme for you. I've learned a ton since open sourcing my first two themes [on Github](http://github.com/mmistakes), and wanted to try a few new things this time around. 
 
-- 韩旻锴
-- 业余贝斯手  [>>](https://site.douban.com/mystery/)
-- 蝙蝠侠爱好者
+If you've used any of [my other themes](http://mademistakes.com/work/jekyll-themes/) most of this should be familiar territory...
+
+## What HPSTR brings to the table:
+
+* Responsive templates for post, page, and post index `_layouts`. Looks great on mobile, tablet, and desktop devices.
+* Gracefully degrads in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.  
+* Modern and minimal design.
+* Sweet animated menu.
+* Background image support.
+* Readable typography to make your words shine.
+* Support for large images to call out your favorite posts.
+* Built-in support for Sass courtesy of Jekyll 2.x.
+* Optional [Disqus](http://disqus.com) comments.
+* Simple and clear permalink structure[^1].
+* [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) support for a better social sharing experience.
+* Simple [custom 404 page]({{ site.url }}/404.html) to get you started.
+* Stylesheets for Pygments and Coderay [syntax highlighting]({{ site.url }}/code-highlighting-post/) to make your code examples look snazzy.
+
+<div markdown="0"><a href="{{ site.url }}/theme-setup/" class="btn btn-info">Theme Setup</a> <a href="https://github.com/mmistakes/hpstr-jekyll-theme" class="btn btn-success">Download HPSTR</a></div>
+
+[^1]: Example: *domain.com/category-name/post-title*

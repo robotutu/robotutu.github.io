@@ -1,13 +1,7 @@
-# Site navigation links
+# Menu navigation links
 
-- title: Archive
-  url: /design/
+- title: Theme Setup
+  url: /theme-setup/
 
-- title: Fun
-  url: /fun/
-
-- title: Library
-  url: /library/
-
-- title: About
-  url: /about/
+- title: External Link
+  url: http://mademistakes.com
