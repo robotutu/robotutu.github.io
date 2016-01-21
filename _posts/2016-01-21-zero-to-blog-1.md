@@ -9,7 +9,7 @@ image:
   creditlink:
 ---
 
-# 菜鸡零基础建博客指南（上）
+菜鸡零基础建博客指南（上）
 
 最近突然心血来潮，想做个网(博)站(客)。虽然现在建成了也没什么可写的，但是整个过程中也是收获颇多。希望这个指南可以帮到和我一样几乎 **零基础** 但又想 **建博客** 的朋友。😁
 
@@ -39,15 +39,20 @@ image:
 Username 将出现在你默认的博客网址中： *<u>urUsername.github.io</u>*
 <div markdown="0"><a href="https://github.com/join" class="btn btn-success" target="blank">Sign up</a></div>
 
-#### 2. 新建 Github 仓库
-唔...好像是叫仓库...在 Repository name 输入框中输入`urUsername.github.io`，urUsername 就是你的用户名，其他的不用填，点击 Create repository 按钮。
-![如图：](/article_pic/zero-to-blog-1.png){: .image-right}
+#### 2. 创建 Github 仓库
+![如图](/article_pic/zero-to-blog-1.png){: .image-right}
+唔...好像是叫仓库...在 Repository name 输入框中输入`urUsername.github.io`，可以理解为项目名或者仓库名，也是默认的博客域名。urUsername 就是你的用户名，其他的不用填，点击 Create repository 按钮。
 
 找不到入口的话猛击下方按钮
 <div markdown="0"><a href="https://github.com/new" class="btn btn-success" target="blank">+ Repository</a></div>
+创建成功后可以在 Your repositories 中随时在线查看。
 
-### 3. 下载 jekyll 博客模板
-打开 [JekyllThemes](http://jekyllthemes.org/){:target="blank"}，从 demo 里挑一个喜欢的模板，下载并解压。
+### 3. 在本地把 Github 用起来
+网上 Github 的[基础使用教程](http://www.runoob.com/w3cnote/git-guide.html){:target="blank"}有很多，在此不做赘述。大致意思是，把上一步创建的仓库同步到本地，在本地进行修改，然后 commit 修改的地方，再同步到线上仓库。这些操作可以用命令行也可以用图形界面的客户端：命令行中从线上同步到本地貌似叫 clone 和 pull，从本地同步到线上叫 push；图形界面中这两种都是 sync。
+
+### 4. 下载 jekyll 博客模板
+![如图](/article_pic/zero-to-blog-2.png){: .image-right}
+打开 [JekyllThemes](http://jekyllthemes.org/){:target="blank"}，从 demo 里挑一个喜欢的模板，下载并解压。然后把所有文件复制到上一步从线上同步到本地文件夹中（如果你操作无误，文件夹名称应该是博客域名：*<u>urUsername.github.io</u>*）。
 
 ### 4. 安装所需环境
 
