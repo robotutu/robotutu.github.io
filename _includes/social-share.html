@@ -1,21 +1,16 @@
 <div class="social-share">
   <ul class="socialcount socialcount-small inline-list">
+      <div class="QRcode">
+          <p>扫码分享到微信</p>
+          <script>// <![CDATA[
+          thisURL = document.URL;
+          strwrite =
+          "<img src='https://chart.googleapis.com/chart?cht=qr&chs=150x150&choe=UTF-8&chld=L|4&chl="  + thisURL + "' width='150' height='150' alt='网址URL 二维码生成' />";
+          document.write( strwrite );
+          // ]]></script>
+      </div>
     <li class="facebook"><a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}" title="Share on Facebook"><span class="count"><i class="fa fa-facebook-square"></i> Like</span></a></li>
     <li class="twitter"><a href="https://twitter.com/intent/tweet?text={{ site.url }}{{ page.url }}" title="Share on Twitter"><span class="count"><i class="fa fa-twitter-square"></i> Tweet</span></a></li>
     <li class="googleplus"><a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" title="Share on Google Plus"><span class="count"><i class="fa fa-google-plus-square"></i> +1</span></a></li>
-
-    <li class="wechat"><a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" title="Share on Google Plus"><span class="count"><i class="fa fa-google-plus-square"></i> +1</span></a></li>
-
-    <script>// <![CDATA[
-
-    thisURL = document.URL;
-    strwrite =
-    "<img src='https://chart.googleapis.com/chart?cht=qr&chs=150x150&choe=UTF-8&chld=L|4&chl="  + thisURL + "' width='150' height='150' alt='网址URL 二维码生成' />";
-    document.write( strwrite );
-    // ]]></script>
-
-
-    // <script type="text/javascript">/* 2014/07/19 21:09 */var _qrContent='',_qrLogo='',_qrWidth=100,_qrHeight=100,_qrType = 'auto';if(!_qrContent) var _qrContent =escape(document.location.href);document.write(unescape("%3Cscript src='http://qrcode.leipi.org/js.html?qw="+_qrWidth+"&qh="+_qrHeight+"&qt="+_qrType+"&qc="+escape(_qrContent)+"&ql="+escape(_qrLogo)+"' type='text/javascript'%3E%3C/script%3E"));</script>
-
   </ul>
 </div><!-- /.social-share -->
