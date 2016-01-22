@@ -58,9 +58,5 @@ Username 将出现在你默认的博客网址中： *<u>urUsername.github.io</u>
 这一步貌似只能用命令行了，反正我是用的命令行。
 
 
-### 5. 上传发布博客
-
-
-#### 个人理解的原理
-- 使用 GitHub 及 GitHub Pages 生成一个 *urgithubname.github.io* 的网站（但里面什么都没有，空空如也）。
-- 使用 jekyll 在
+### 5. 本地启动博客
+用命令行 `cd` 指令进入到 *<u>urUsername.github.io</u>* 文件夹，然后用 `jekyll serve`，如果提示错误少什么东西，直接复制名字安装就可以，如果还是不行，那么使用 `bundle exec jekyll serve`启动，这是个暂时无法解决的问题，在指南下篇会提到。
