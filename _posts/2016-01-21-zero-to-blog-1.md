@@ -55,6 +55,7 @@ Username 将出现在你默认的博客网址中： *<u>urUsername.github.io</u>
 打开 [JekyllThemes](http://jekyllthemes.org/){:target="blank"}，从 demo 里挑一个喜欢的模板，下载并解压。然后把所有文件复制到上一步从线上同步到本地文件夹中（如果你操作无误，文件夹名称应该是博客域名：*<u>urUsername.github.io</u>*）。
 
 ### 4. 安装所需环境
+这一步貌似只能用命令行了，反正我是用的命令行。
 
 
 ### 5. 上传发布博客
