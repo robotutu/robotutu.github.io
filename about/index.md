@@ -6,8 +6,10 @@ image:
   credit:
   creditlink:
 comments: false
-modified: 2016-01-21
+modified: 2016-01-23
 ---
-韩旻锴，男
+韩旻锴
 
-半吊子乐队成员
+男，90年
+
+喜欢听歌半吊子乐队成员
