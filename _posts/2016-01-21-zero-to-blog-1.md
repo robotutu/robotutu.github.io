@@ -17,7 +17,7 @@ image:
 
 ---
 
-### 使用的工具
+### 使用工具
 - [Shadowsocks](https://portal.shadowsocks.com/aff.php?aff=4491){:target="blank"}
 <br>干掉 GFW 的工具，建议全程翻墙
 - [GitHub](https://github.com/){:target="blank"}
@@ -33,7 +33,7 @@ image:
 
 ---
 
-### 建博客流程
+### 操作流程
 
 #### 1. 注册 Github 账号
 Username 将出现在你默认的博客网址中： *<u>urUsername.github.io</u>*
