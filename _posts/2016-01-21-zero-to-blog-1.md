@@ -19,7 +19,7 @@ image:
 
 ### 使用工具
 - [Shadowsocks](https://portal.shadowsocks.com/aff.php?aff=4491){:target="blank"}
-<br>干掉 GFW 的工具，建议全程翻墙
+<br>不让说😠
 - [GitHub](https://github.com/){:target="blank"}
 <br>分布式版本控制系统和开源代码库 *（其实不懂是什么意思，扩展：[版本控制](http://blog.jobbole.com/55304/){:target="blank"}）*，并提供了 [Github Pages](https://pages.github.com/) 服务，我们并不需要额外做什么就可以直接享受这项服务
 - [Jekyll](http://jekyll.bootcss.com/){:target="blank"}
