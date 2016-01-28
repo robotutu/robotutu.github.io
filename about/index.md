@@ -14,4 +14,4 @@ modified: 2016-01-23
 
 喜欢听歌
 
-半吊子乐队成员[>>](https://site.douban.com/mystery/)
+半吊子乐队成员[>>](https://site.douban.com/mystery/){:target="blank"}
