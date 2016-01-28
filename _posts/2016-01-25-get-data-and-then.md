@@ -23,7 +23,7 @@ image:
 ---
 
 ### 那,让我们狠狠地咬一口吧！
-回到开头提到的那个需求，先交代下背景：我司有多条产品线(非大众消费类产品)，共用账号系统，各产品的各 linding page 都有注册按钮，并用 [Google Analytics](https://www.google.com/analytics/) 进行数据采集监控。
+回到开头提到的那个需求，先交代下背景：我司有多条产品线(非大众消费类产品)，共用账号系统，各产品的各 landing page 都有注册按钮，并用 [Google Analytics](https://www.google.com/analytics/) 进行数据采集监控。
 
 早前某产品发布了一个 landing page，页面头部有一个文本输入框(输入 IP 或域名)和一个『免费检测』按钮。看上去可以直接为用户提供免费检测的服务，类似 360 [网址安全检测](http://webscan.360.cn/)。
 <div markdown="0"><a class="btn btn-info">免费检测</a></div>
