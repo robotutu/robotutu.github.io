@@ -27,7 +27,7 @@ modified: 2017-06-26
 
 #### Amazon Global Selling 网站重构
 * Amazon  &nbsp;&nbsp;  2016.05 - 2017.04
-* 项目旨在为国内卖家将产品售卖至其他国家提供更便捷的互联网服务
+* 为国内卖家将产品售卖至其他国家提供更便捷的互联网服务
 * 负责梳理网站信息架构、页面设计和部分图标设计，并为客户提供用户及运营角度的建议
 * 在资源有限（图片版权、前端开发、内容运营）和技术限制的情况下，为客户的产品在短期内构建了良好的用户体验
 * 通过控件模板化，使得客户自行搭建的页面风格在站内保持一致
@@ -35,21 +35,27 @@ modified: 2017-06-26
 
 <figure class="half">
   <a href="/images/About/project_01.png"><img src="/images/About/project_01.png" alt="CX思路"></a>
-  <a href="/images/About/project_02.png"><img src="/images/About/project_02.png" alt="上线效果"></a>
-  <a href="/images/About/project_03.gif"><img src="/images/About/project_04.gif" alt="上线效果"></a>
+  <a href="/images/About/project_02.png"><img src="/images/About/project_02.png" alt="交互原型"></a>
+  <a href="/images/About/project_03.gif"><img src="/images/About/project_03.gif" alt="动效演示"></a>
   <a href="/images/About/project_04.png"><img src="/images/About/project_04.png" alt="上线效果"></a>
-  <figcaption>CX思路、交互原型、动效演示、上线效果</figcaption>
+  <figcaption>CX思路，交互原型，动效演示，上线效果</figcaption>
 </figure>
 
 
 #### Responsive Shopping Assistant · Amazon
 * Amazon  &nbsp;&nbsp;  2016.12 - 2017.02
-* 旨在
+* 为 Amazon 零售应用的客户提供更便捷的信息展示：物流追踪、相关品类推荐等
+* 负责该模块界面交互设计及标注
+* Phase I 上线后 OPS(Order Product Sales) 数据有显著提升
+* 通过细节设计节省区块高度，满足产品运营需求
+* 手机下载 Amazon App，底部标签『我的』中可见
 
 <figure class="half">
-  <a href="/images/abstract-2.jpg"><img src="/images/abstract-1.jpg" alt=""></a>
-	<a href="/images/abstract-2.jpg"><img src="/images/abstract-1.jpg" alt=""></a>
-	<figcaption>设计稿&动效</figcaption>
+  <a href="/images/About/project_11.png"><img src="/images/About/project_11.png" alt="设计效果"></a>
+  <a href="/images/About/project_12.png"><img src="/images/About/project_12.png" alt="各类情况"></a>
+  <a href="/images/About/project_13.png"><img src="/images/About/project_13.png" alt="尺寸标注"></a>
+  <a href="/images/About/project_14.png"><img src="/images/About/project_14.png" alt="上线效果"></a>
+	<figcaption>设计效果，各类情况，尺寸标注，上线效果</figcaption>
 </figure>
 
 
