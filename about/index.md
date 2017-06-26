@@ -79,5 +79,5 @@ modified: 2017-06-26
 * **了解一些：** Origami，HTML，CSS
 
 #### 更多
-<a href="https://zhuanlan.zhihu.com/robotu">知乎专栏：UX Road</a>
-<a href="assets/韩旻锴_UXD_27岁.pdf" target="_blank">下载文字版简历</a>
+* <a href="https://zhuanlan.zhihu.com/robotu" target="_blank">知乎专栏：UX Road</a>
+* <a href="/韩旻锴_UXD_27岁.pdf" target="_blank">下载文字版简历</a>
