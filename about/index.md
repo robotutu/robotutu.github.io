@@ -25,6 +25,7 @@ modified: 2017-06-26
 
 ### 项目经验
 #### Amazon Global Store · Amazon
+
 #### Responsive Shopping Assistant · Amazon
 
 <figure class="half">
@@ -32,6 +33,8 @@ modified: 2017-06-26
 	<a href="/images/abstract-2.jpg"><img src="/images/abstract-1.jpg" alt=""></a>
 	<figcaption>设计稿&动效</figcaption>
 </figure>
+
+
 
 #### OneAPM产品界面·OneAPM
 
@@ -48,6 +51,7 @@ modified: 2017-06-26
 * 制作高保真交互原型
 * 与前端工程师验收设计实现
 * 对复杂需求制作交互说明
+
 
 
 
@@ -69,9 +73,11 @@ modified: 2017-06-26
 
 
 #### 技能
-* **交互原型：** Axure RP，Sketch，纸笔
+* **交互原型：** Axure RP，Sketch，Principle，纸笔
 * **信息架构：** XMind，MindManager，Excel
 * **其他工具：** Markdown，Git，Atom
 * **了解一些：** Origami，HTML，CSS
 
 #### 更多
+<a href="https://zhuanlan.zhihu.com/robotu">知乎专栏：UX Road</a>
+<a href="assets/韩旻锴_UXD_27岁.pdf" target="_blank">下载文字版简历</a>
