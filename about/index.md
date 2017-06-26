@@ -34,9 +34,9 @@ modified: 2017-06-26
 * <a href="https://gs.amazon.cn/" target="1_blank">访问网站</a>
 
 <figure class="half">
-  <a href="/images/111"><img src="/images/111" alt="网站架构"></a>
-  <a href="/images/111"><img src="/images/111" alt="交互原型"></a>
-  <a href="/images/111"><img src="/images/111" alt="动效演示"></a>
+  <a href="/images/About/project_04.png"><img src="images/About/project_04.png" alt="上线效果"></a>
+  <a href="/images/About/project_04.png"><img src="images/About/project_04.png" alt="上线效果"></a>
+  <a href="/images/About/project_04.png"><img src="images/About/project_04.png" alt="上线效果"></a>
   <a href="/images/About/project_04.png"><img src="images/About/project_04.png" alt="上线效果"></a>
   <figcaption>网站架构、交互原型、动效演示、上线效果</figcaption>
 </figure>
