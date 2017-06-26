@@ -24,7 +24,8 @@ modified: 2017-06-26
 * <p>2009.09 - 2013.06  &nbsp;&nbsp;  北京信息科技大学 · 机械设计制造及其自动化 · 学士</p>
 
 ### 项目经验
-#### Responsive Shopping Assistant·Amazon App(CN)
+#### Amazon Global Store · Amazon
+#### Responsive Shopping Assistant · Amazon
 
 <figure class="half">
   <a href="/images/abstract-2.jpg"><img src="/images/abstract-1.jpg" alt=""></a>
@@ -68,7 +69,9 @@ modified: 2017-06-26
 
 
 #### 技能
+* **交互原型：** Axure RP，Sketch，纸笔
+* **信息架构：** XMind，MindManager，Excel
+* **其他工具：** Markdown，Git，Atom
+* **了解一些：** Origami，HTML，CSS
 
-喜欢听歌
-
-半吊子乐队成员[>>](https://site.douban.com/mystery/){:target="blank"}
+#### 更多
