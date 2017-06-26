@@ -8,23 +8,23 @@ image:
 comments: false
 modified: 2017-06-26
 ---
-## 韩旻锴 HanMinkai
+# 韩旻锴 HanMinkai
 * 男·1990生于北京
 
-#### 联系方式
+### 联系方式
 * 13581688226
 * <a href="mailto:13581688226@163.com">13581688226@163.com</a>
 
-#### 工作经历
+### 工作经历
 * <p>2016.04 - 2017.05    Amazon·ACSCN·UX Designer</p>
 * <p>2015.06 - 2016.03    OneAPM·研发设计部·交互设计师</p>
 * <p>2013.07 - 2015.05    CNTV·用户体验与设计中心·交互设计师</p>
 
-#### 教育背景
+### 教育背景
 * <p>2009.09 - 2013.06    北京信息科技大学·机械设计制造及其自动化·学士</p>
 
-#### 项目经验
-##### Responsive Shopping Assistant·Amazon App(CN)
+### 项目经验
+#### Responsive Shopping Assistant·Amazon App(CN)
 
 <figure class="half">
   <a href="/images/abstract-2.jpg"><img src="/images/abstract-1.jpg" alt=""></a>
@@ -32,7 +32,7 @@ modified: 2017-06-26
 	<figcaption>设计稿&动效</figcaption>
 </figure>
 
-##### 央视羊年春晚官网·CNTV
+#### 央视羊年春晚官网·CNTV
 * 与编辑讨论页面的栏目内容、功能模块
 * 梳理信息架构、确定功能框架、明确页面关系
 * 制作交互原型
