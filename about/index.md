@@ -16,20 +16,20 @@ modified: 2017-06-26
 * <a href="mailto:13581688226@163.com">13581688226@163.com</a>
 
 #### 工作经历
-* 2016.04-2017.05  Amazon·ACSCN·UX Designer
-* 2015.06-2016.03  OneAPM·研发设计部·交互设计师
-* 2013.07-2015.05  CNTV·用户体验与设计中心·交互设计师
+* 2016.04 - 2017.05    Amazon·ACSCN·UX Designer
+* 2015.06 - 2016.03    OneAPM·研发设计部·交互设计师
+* 2013.07 - 2015.05    CNTV·用户体验与设计中心·交互设计师
 
 #### 教育背景
-* 2009.09-2013.06  北京信息科技大学·机械设计制造及其自动化·学士
+* 2009.09 - 2013.06    北京信息科技大学·机械设计制造及其自动化·学士
 
 #### 项目经验
-###### Responsive Shopping Assistant·Amazon·Amazon App(CN)·2016.12-
+###### Responsive Shopping Assistant·Amazon App(CN)·2016.12-
 
 <figure class="half">
-	<img src="/images/image-filename-1.jpg" alt="">
-	<img src="/images/image-filename-2.jpg" alt="">
-	<figcaption>Caption describing these two images.</figcaption>
+	<img src="/images/abstract-1.jpg" alt="">
+	<img src="/images/abstract-1.jpg" alt="">
+	<figcaption>设计稿&动效</figcaption>
 </figure>
 
 #### 技能
