@@ -33,6 +33,14 @@ modified: 2017-06-26
 </figure>
 
 #### 央视羊年春晚官网·CNTV
+<figure class="half">
+  <a href="/images/111"><img src="/images/111" alt=""></a>
+  <a href="/images/111"><img src="/images/111" alt=""></a>
+  <a href="/images/111"><img src="/images/111" alt=""></a>
+  <a href="/images/111"><img src="/images/111" alt=""></a>
+  <figcaption>功能列表、线框图、交互原型、上线效果</figcaption>
+</figure>
+
 * 与编辑讨论页面的栏目内容、功能模块
 * 梳理信息架构、确定功能框架、明确页面关系
 * 制作交互原型
