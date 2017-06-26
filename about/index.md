@@ -8,19 +8,26 @@ image:
 comments: false
 modified: 2017-06-26
 ---
-## 韩旻锴 HanMinkai
+### 韩旻锴 HanMinkai
+男·1990生于北京
 
-
-#### 联系
+#### 联系方式
 * 13581688226
 * <a href="mailto:13581688226@163.com">13581688226@163.com</a>
 
-#### 经历
-* 2016.04-2017.05·Amazon/亚马逊·ACSCN（Amazon Creative Services China）·UX Designer
+#### 工作经历
+* 2016.04-2017.05  Amazon·ACSCN·UX Designer
+* 2015.06-2016.03  OneAPM·研发设计部·交互设计师
+* 2013.07-2015.05  CNTV·用户体验与设计中心·交互设计师
 
-#### 教育
+#### 教育背景
+* 2009.09-2013.06  北京信息科技大学·机械设计制造及其自动化·学士
 
-#### 项目
+#### 项目经验
+###### Responsive Shopping Assistant·Amazon·Amazon App(CN)·2016.12-
+
+
+#### 技能
 
 喜欢听歌
 
