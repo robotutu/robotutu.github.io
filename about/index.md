@@ -9,7 +9,7 @@ comments: false
 modified: 2017-06-26
 ---
 ### 韩旻锴 HanMinkai
-男·1990生于北京
+* 男·1990生于北京
 
 #### 联系方式
 * 13581688226
@@ -24,13 +24,22 @@ modified: 2017-06-26
 * 2009.09 - 2013.06    北京信息科技大学·机械设计制造及其自动化·学士
 
 #### 项目经验
-###### Responsive Shopping Assistant·Amazon App(CN)·2016.12-
+###### Responsive Shopping Assistant·Amazon App(CN)
 
 <figure class="half">
   <a href="/images/abstract-2.jpg"><img src="/images/abstract-1.jpg" alt=""></a>
 	<a href="/images/abstract-2.jpg"><img src="/images/abstract-1.jpg" alt=""></a>
 	<figcaption>设计稿&动效</figcaption>
 </figure>
+
+###### 央视羊年春晚官网·CNTV
+- 与编辑讨论页面的栏目内容、功能模块
+- 梳理信息架构、确定功能框架、明确页面关系
+* 制作交互原型
+* 验收视觉设计稿
+* 除夕验收各时段页面效果
+
+
 
 #### 技能
 
