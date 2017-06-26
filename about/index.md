@@ -11,20 +11,33 @@ modified: 2017-06-26
 # 韩旻锴 HanMinkai
 * 男 · 1990生于北京
 
-### 联系方式
+### 联系
 * 13581688226
 * <a href="mailto:13581688226@163.com">13581688226@163.com</a>
 
-### 工作经历
-* <p>2016.04 - 2017.05  &nbsp;&nbsp;  Amazon · ACSCN · UX Designer</p>
-* <p>2015.06 - 2016.03  &nbsp;&nbsp;  OneAPM · 研发设计部 · 交互设计师</p>
-* <p>2013.07 - 2015.05  &nbsp;&nbsp;  CNTV · 用户体验与设计中心 · 交互设计师</p>
+### 经历
+* 2016.04 - 2017.05  &nbsp;&nbsp;  Amazon · ACSCN · UX Designer
+* 2015.06 - 2016.03  &nbsp;&nbsp;  OneAPM · 研发设计部 · 交互设计师
+* 2013.07 - 2015.05  &nbsp;&nbsp;  CNTV · 用户体验与设计中心 · 交互设计师
 
-### 教育背景
-* <p>2009.09 - 2013.06  &nbsp;&nbsp;  北京信息科技大学 · 机械设计制造及其自动化 · 学士</p>
+### 教育
+* 2009.09 - 2013.06  &nbsp;&nbsp;  北京信息科技大学 · 机械设计制造及其自动化 · 学士
 
-### 项目经验
-#### Amazon Global Store · Amazon
+### 项目
+
+#### Amazon Global Selling 网站重构
+* Amazon  &nbsp;&nbsp;  2016.05 - 2017.04
+* 旨在
+
+<figure class="half">
+  <a href="/images/111"><img src="/images/111" alt="网站架构"></a>
+  <a href="/images/111"><img src="/images/111" alt="交互原型"></a>
+  <a href="/images/111"><img src="/images/111" alt="动效演示"></a>
+  <a href="/images/111"><img src="/images/111" alt="上线效果"></a>
+  <figcaption>网站架构、交互原型、动效演示、上线效果</figcaption>
+</figure>
+<div markdown="0"><a target="00_blank" href="gs.amazon.cn" class="btn">访问网站</a></div>
+
 
 #### Responsive Shopping Assistant · Amazon
 
