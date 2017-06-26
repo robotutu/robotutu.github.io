@@ -9,7 +9,7 @@ comments: false
 modified: 2017-06-26
 ---
 # 韩旻锴 HanMinkai
-* 男 · 1990生于北京
+* 男 · 1990年生于北京
 
 ### 联系
 * 13581688226
@@ -37,7 +37,7 @@ modified: 2017-06-26
   <a href="/images/111"><img src="/images/111" alt="网站架构"></a>
   <a href="/images/111"><img src="/images/111" alt="交互原型"></a>
   <a href="/images/111"><img src="/images/111" alt="动效演示"></a>
-  <a href="/images/111"><img src="/images/111" alt="上线效果"></a>
+  <a href="/images/About/project_04.png"><img src="images/About/project_04.png" alt="上线效果"></a>
   <figcaption>网站架构、交互原型、动效演示、上线效果</figcaption>
 </figure>
 
