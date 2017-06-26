@@ -27,8 +27,8 @@ modified: 2017-06-26
 ###### Responsive Shopping Assistant·Amazon App(CN)·2016.12-
 
 <figure class="half">
-	<img src="/images/abstract-1.jpg" alt="">
-	<img src="/images/abstract-1.jpg" alt="">
+  <a href="/images/abstract-2.jpg"><img src="/images/abstract-1.jpg" alt=""></a>
+	<a href="/images/abstract-2.jpg"><img src="/images/abstract-1.jpg" alt=""></a>
 	<figcaption>设计稿&动效</figcaption>
 </figure>
 
