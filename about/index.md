@@ -40,6 +40,8 @@ modified: 2017-06-26
 
 
 #### Responsive Shopping Assistant · Amazon
+* Amazon  &nbsp;&nbsp;  2016.12 - 2017.02
+* 旨在
 
 <figure class="half">
   <a href="/images/abstract-2.jpg"><img src="/images/abstract-1.jpg" alt=""></a>
@@ -83,14 +85,17 @@ modified: 2017-06-26
 * 验收视觉设计稿
 * 除夕验收各时段页面效果
 
+#### 其他
+###### Amazon Phonetool Award Icon Design
+######
 
 
-#### 技能
+### 技能
 * **交互原型：** Axure RP，Sketch，Principle，纸笔
 * **信息架构：** XMind，MindManager，Excel
 * **其他工具：** Markdown，Git，Atom
 * **了解一些：** Origami，HTML，CSS
 
-#### 更多
+### 更多
 * <a href="https://zhuanlan.zhihu.com/robotu" target="1_blank">知乎专栏：UX Road</a>
 * <a href="/韩旻锴_UXD_27岁.pdf" target="2_blank">下载文字版简历</a>
