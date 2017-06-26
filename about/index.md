@@ -16,12 +16,12 @@ modified: 2017-06-26
 * <a href="mailto:13581688226@163.com">13581688226@163.com</a>
 
 ### 工作经历
-* <p>2016.04 - 2017.05    Amazon·ACSCN·UX Designer</p>
-* <p>2015.06 - 2016.03    OneAPM·研发设计部·交互设计师</p>
-* <p>2013.07 - 2015.05    CNTV·用户体验与设计中心·交互设计师</p>
+* <p>2016.04 - 2017.05  &nbsp;  Amazon·ACSCN·UX Designer</p>
+* <p>2015.06 - 2016.03  &nbsp;  OneAPM·研发设计部·交互设计师</p>
+* <p>2013.07 - 2015.05  &nbsp;  CNTV·用户体验与设计中心·交互设计师</p>
 
 ### 教育背景
-* <p>2009.09 - 2013.06    北京信息科技大学·机械设计制造及其自动化·学士</p>
+* <p>2009.09 - 2013.06  &nbsp;  北京信息科技大学·机械设计制造及其自动化·学士</p>
 
 ### 项目经验
 #### Responsive Shopping Assistant·Amazon App(CN)
@@ -32,12 +32,30 @@ modified: 2017-06-26
 	<figcaption>设计稿&动效</figcaption>
 </figure>
 
-#### 央视羊年春晚官网·CNTV
+#### OneAPM产品界面·OneAPM
+
 <figure class="half">
   <a href="/images/111"><img src="/images/111" alt=""></a>
   <a href="/images/111"><img src="/images/111" alt=""></a>
   <a href="/images/111"><img src="/images/111" alt=""></a>
   <a href="/images/111"><img src="/images/111" alt=""></a>
+  <figcaption>功能列表、线框图、交互原型、上线效果</figcaption>
+</figure>
+
+* 建立界面控件模板库
+* 与产品经理梳理产品结构、页面、功能
+* 制作高保真交互原型
+* 与前端工程师验收设计实现
+* 对复杂需求制作交互说明
+
+
+
+#### 央视羊年春晚官网·CNTV
+<figure class="half">
+  <a href="/images/111"><img src="/images/111" alt="功能列表"></a>
+  <a href="/images/111"><img src="/images/111" alt="线框图"></a>
+  <a href="/images/111"><img src="/images/111" alt="交互原型"></a>
+  <a href="/images/111"><img src="/images/111" alt="上线效果"></a>
   <figcaption>功能列表、线框图、交互原型、上线效果</figcaption>
 </figure>
 
