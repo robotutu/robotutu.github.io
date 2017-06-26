@@ -36,9 +36,9 @@ modified: 2017-06-26
 <figure class="half">
   <a href="/images/About/project_01.png"><img src="/images/About/project_01.png" alt="CX思路"></a>
   <a href="/images/About/project_02.png"><img src="/images/About/project_02.png" alt="交互原型"></a>
-  <a href="/images/About/project_03.gif"><img src="/images/About/project_03.gif" alt="动效演示"></a>
   <a href="/images/About/project_04.png"><img src="/images/About/project_04.png" alt="上线效果"></a>
-  <figcaption>CX思路，交互原型，动效演示，上线效果</figcaption>
+  <iframe width="560" height="315" src="//www.youtube.com/embed/SU3kYxJmWuQ" frameborder="0"> </iframe>
+  <figcaption>『图』CX思路，交互原型，动效演示，上线效果</figcaption>
 </figure>
 
 
@@ -55,7 +55,7 @@ modified: 2017-06-26
   <a href="/images/About/project_12.png"><img src="/images/About/project_12.png" alt="各类情况"></a>
   <a href="/images/About/project_13.png"><img src="/images/About/project_13.png" alt="尺寸标注"></a>
   <a href="/images/About/project_14.png"><img src="/images/About/project_14.png" alt="上线效果"></a>
-	<figcaption>设计效果，各类情况，尺寸标注，上线效果</figcaption>
+	<figcaption>『图』设计效果，各类情况，尺寸标注，上线效果</figcaption>
 </figure>
 
 
@@ -85,7 +85,7 @@ modified: 2017-06-26
   <a href="/images/111"><img src="/images/111" alt="线框图"></a>
   <a href="/images/111"><img src="/images/111" alt="交互原型"></a>
   <a href="/images/111"><img src="/images/111" alt="上线效果"></a>
-  <figcaption>功能列表、线框图、交互原型、上线效果</figcaption>
+  <figcaption>『图』功能列表、线框图、交互原型、上线效果</figcaption>
 </figure>
 
 * 与编辑讨论页面的栏目内容、功能模块
