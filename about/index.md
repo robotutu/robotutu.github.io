@@ -27,7 +27,11 @@ modified: 2017-06-26
 
 #### Amazon Global Selling 网站重构
 * Amazon  &nbsp;&nbsp;  2016.05 - 2017.04
-* 旨在
+* 项目旨在为国内卖家将产品售卖至其他国家提供更便捷的互联网服务
+* 负责梳理网站信息架构、页面设计和部分图标设计，并为客户提供用户及运营角度的建议
+* 在资源有限（图片版权、前端开发、内容运营）和技术限制的情况下，为客户的产品在短期内构建了良好的用户体验
+* 通过控件模板化，使得客户自行搭建的页面风格在站内保持一致
+* <a href="https://gs.amazon.cn/" target="1_blank">访问网站</a>
 
 <figure class="half">
   <a href="/images/111"><img src="/images/111" alt="网站架构"></a>
@@ -36,7 +40,6 @@ modified: 2017-06-26
   <a href="/images/111"><img src="/images/111" alt="上线效果"></a>
   <figcaption>网站架构、交互原型、动效演示、上线效果</figcaption>
 </figure>
-<div markdown="0"><a target="00_blank" href="gs.amazon.cn" class="btn">访问网站</a></div>
 
 
 #### Responsive Shopping Assistant · Amazon
