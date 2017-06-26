@@ -26,6 +26,11 @@ modified: 2017-06-26
 #### 项目经验
 ###### Responsive Shopping Assistant·Amazon·Amazon App(CN)·2016.12-
 
+<figure class="half">
+	<img src="/images/image-filename-1.jpg" alt="">
+	<img src="/images/image-filename-2.jpg" alt="">
+	<figcaption>Caption describing these two images.</figcaption>
+</figure>
 
 #### 技能
 
