@@ -25,7 +25,7 @@ modified: 2017-06-26
 
 ### 项目
 
-#### Amazon Global Selling 网站重构
+#### Amazon Global Selling 全球开店网站重构
 * Amazon  &nbsp;&nbsp;  2016.05 - 2017.04
 * 为国内卖家将产品售卖至其他国家提供更便捷的互联网服务
 * 负责梳理网站信息架构、页面设计和部分图标设计，并为客户提供用户及运营角度的建议
@@ -37,12 +37,12 @@ modified: 2017-06-26
   <a href="/images/About/project_01.png"><img src="/images/About/project_01.png" alt="CX思路"></a>
   <a href="/images/About/project_02.png"><img src="/images/About/project_02.png" alt="交互原型"></a>
   <a href="/images/About/project_04.png"><img src="/images/About/project_04.png" alt="上线效果"></a>
-  <iframe width="560" height="315" src="//www.youtube.com/embed/SU3kYxJmWuQ" frameborder="0"> </iframe>
+  <iframe width="560" height="315" src="/images/About/project_03.mov" frameborder="0"> </iframe>
   <figcaption>『图』CX思路，交互原型，动效演示，上线效果</figcaption>
 </figure>
 
 
-#### Responsive Shopping Assistant · Amazon
+#### Responsive Shopping Assistant
 * Amazon  &nbsp;&nbsp;  2016.12 - 2017.02
 * 为 Amazon 零售应用的客户提供更便捷的信息展示：物流追踪、相关品类推荐等
 * 负责该模块界面交互设计及标注
