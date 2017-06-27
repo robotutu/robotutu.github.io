@@ -36,8 +36,8 @@ modified: 2017-06-26
 <figure class="half">
   <a href="/images/About/project_01.png"><img src="/images/About/project_01.png" alt="CX思路"></a>
   <a href="/images/About/project_02.png"><img src="/images/About/project_02.png" alt="交互原型"></a>
+  <a href="/images/About/project_03.gif"><img src="/images/About/project_03.gif" alt="动效演示"></a>
   <a href="/images/About/project_04.png"><img src="/images/About/project_04.png" alt="上线效果"></a>
-  <iframe width="560" height="315" src="/images/About/project_03.mov" frameborder="0"> </iframe>
   <figcaption>『图』CX思路，交互原型，动效演示，上线效果</figcaption>
 </figure>
 
