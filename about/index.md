@@ -97,13 +97,19 @@ modified: 2017-06-26
 <figure class="half">
   <a href="/images/About/project_a1.jpg"><img src="/images/About/project_a1.jpg" alt="功能列表"></a>
   <a href="/images/About/project_a2.jpg"><img src="/images/About/project_a2.jpg" alt="线框图"></a>
-  <figcaption>『图』My Card，日亚海外购</figcaption>
+  <figcaption></figcaption>
 </figure>
 
 ###### Amazon Tmall Reseign (Concept)
 <figure>
 	<a href="/images/About/project_b.png"><img src="/images/About/project_b.png" alt="Tmall"></a>
-	<figcaption>Amazon Tmall</figcaption>
+	<figcaption></figcaption>
+</figure>
+
+###### SkyCity AIN tag
+<figure>
+	<a href="/images/About/project_c.png"><img src="/images/About/project_c.png" alt="Tmall"></a>
+	<figcaption></figcaption>
 </figure>
 
 ### 技能
