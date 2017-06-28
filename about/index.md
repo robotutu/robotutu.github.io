@@ -77,22 +77,24 @@ modified: 2017-06-26
 
 
 #### 央视羊年春晚官网·CNTV
-<figure class="half">
-  <a href="/images/About/project_31.png"><img src="/images/About/project_31.png" alt="功能列表"></a>
-  <a href="/images/About/project_32.png"><img src="/images/About/project_32.png" alt="线框图"></a>
-  <a href="/images/About/project_33.gif"><img src="/images/About/project_33.gif" alt="交互原型"></a>
-  <a href="/images/About/project_34.png"><img src="/images/About/project_34.png" alt="上线效果"></a>
-  <figcaption>『图』可用性测试表、线框图、交互原型、上线效果</figcaption>
-</figure>
-
 * 与编辑讨论页面的栏目内容、功能模块
 * 梳理信息架构、确定功能框架、明确页面关系
 * 制作交互原型
 * 验收视觉设计稿
 * 除夕验收各时段页面效果
 
+<figure class="half">
+  <a href="/images/About/project_31.png"><img src="/images/About/project_31.png" alt="功能列表"></a>
+  <a href="/images/About/project_32.png"><img src="/images/About/project_32.png" alt="线框图"></a>
+  <a href="/images/About/project_33.gif"><img src="/images/About/project_33.gif" alt="交互原型"></a>
+  <a href="/images/About/project_34.png"><img src="/images/About/project_34.png" alt="上线效果"></a>
+  <figcaption>『图』功能列表、线框图、交互原型、上线效果</figcaption>
+</figure>
+
+
 #### 其他
 ###### Amazon Phonetool Award Icon Design
+
 ######
 
 
