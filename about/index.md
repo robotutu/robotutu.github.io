@@ -42,7 +42,7 @@ modified: 2017-06-26
 </figure>
 
 
-#### Responsive Shopping Assistant
+#### Responsive Shopping Assistant - My Card
 * Amazon  &nbsp;&nbsp;  2016.12 - 2017.02
 * 为 Amazon 零售应用的客户提供更便捷的信息展示：物流追踪、相关品类推荐等
 * 负责该模块界面交互设计及标注
@@ -88,15 +88,23 @@ modified: 2017-06-26
   <a href="/images/About/project_32.png"><img src="/images/About/project_32.png" alt="线框图"></a>
   <a href="/images/About/project_33.gif"><img src="/images/About/project_33.gif" alt="交互原型"></a>
   <a href="/images/About/project_34.png"><img src="/images/About/project_34.png" alt="上线效果"></a>
-  <figcaption>『图』功能列表、线框图、交互原型、上线效果</figcaption>
+  <figcaption>『图』功能列表，线框图，交互原型，上线效果</figcaption>
 </figure>
 
 
 #### 其他
 ###### Amazon Phonetool Award Icon Design
+<figure class="half">
+  <a href="/images/About/project_a1.jpg"><img src="/images/About/project_a1.jpg" alt="功能列表"></a>
+  <a href="/images/About/project_a2.jpg"><img src="/images/About/project_a2.jpg" alt="线框图"></a>
+  <figcaption>『图』My Card，日亚海外购</figcaption>
+</figure>
 
-######
-
+###### Amazon Tmall Reseign (Concept)
+<figure>
+	<a href="/images/About/project_b.png"><img src="/images/About/project_b.png" alt="Tmall"></a>
+	<figcaption>Amazon Tmall</figcaption>
+</figure>
 
 ### 技能
 * **交互原型：** Axure RP，Sketch，Principle，纸笔
