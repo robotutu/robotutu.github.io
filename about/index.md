@@ -115,7 +115,7 @@ modified: 2017-06-26
 </figure>
 
 ##### BrightBuy - Feedback(US)
-<iframe width="560" height="315" src="http://v.youku.com/v_show/id_XMjg1NDUyOTM4MA" autoPlay=false frameborder="0"> </iframe>
+<embed src='http://player.youku.com/player.php/sid/XMjg1NDUyOTM4MA==/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed>
 
 ##### Operator Console
 <figure>
