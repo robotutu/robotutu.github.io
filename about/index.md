@@ -78,11 +78,11 @@ modified: 2017-06-26
 
 #### 央视羊年春晚官网·CNTV
 <figure class="half">
-  <a href="/images/111"><img src="/images/111" alt="功能列表"></a>
-  <a href="/images/111"><img src="/images/111" alt="线框图"></a>
-  <a href="/images/111"><img src="/images/111" alt="交互原型"></a>
-  <a href="/images/111"><img src="/images/111" alt="上线效果"></a>
-  <figcaption>『图』功能列表、线框图、交互原型、上线效果</figcaption>
+  <a href="/images/About/project_31.png"><img src="/images/About/project_31.png" alt="功能列表"></a>
+  <a href="/images/About/project_32.png"><img src="/images/About/project_32.png" alt="线框图"></a>
+  <a href="/images/About/project_33.gif"><img src="/images/About/project_33.gif" alt="交互原型"></a>
+  <a href="/images/About/project_34.png"><img src="/images/About/project_34.png" alt="上线效果"></a>
+  <figcaption>『图』可用性测试表、线框图、交互原型、上线效果</figcaption>
 </figure>
 
 * 与编辑讨论页面的栏目内容、功能模块
@@ -103,5 +103,5 @@ modified: 2017-06-26
 * **了解一些：** Origami，HTML，CSS
 
 ### 更多
-* <a href="https://zhuanlan.zhihu.com/robotu" target="1_blank">知乎专栏：UX Road</a>
-* <a href="/韩旻锴_UXD_27岁.pdf" target="2_blank">下载文字版简历</a>
+* <a href="https://zhuanlan.zhihu.com/robotu" target="3_blank">知乎专栏：UX Road</a>
+* <a href="/韩旻锴_UXD_27岁.pdf" target="4_blank">下载文字版简历</a>
