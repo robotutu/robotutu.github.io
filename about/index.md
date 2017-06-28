@@ -34,11 +34,11 @@ modified: 2017-06-26
 * <a href="https://gs.amazon.cn/" target="1_blank">访问网站</a>
 
 <figure class="half">
-  <a href="/images/About/project_01.png"><img src="/images/About/project_01.png" alt="CX思路"></a>
+  <a href="/images/About/project_01.png"><img src="/images/About/project_01.png" alt="CX梳理"></a>
   <a href="/images/About/project_02.png"><img src="/images/About/project_02.png" alt="交互原型"></a>
   <a href="/images/About/project_03.gif"><img src="/images/About/project_03.gif" alt="动效演示"></a>
   <a href="/images/About/project_04.png"><img src="/images/About/project_04.png" alt="上线效果"></a>
-  <figcaption>『图』CX思路，交互原型，动效演示，上线效果</figcaption>
+  <figcaption>『图』CX梳理，交互原型，动效演示，上线效果</figcaption>
 </figure>
 
 
@@ -68,11 +68,11 @@ modified: 2017-06-26
 * <a href="https://mi.oneapm.com/mobile/app#/" target="2_blank">查看demo</a>
 
 <figure class="half">
+  <a href="/images/111"><img src="/images/111" alt="信息架构"></a>
+  <a href="/images/111"><img src="/images/111" alt="交互控件模板库"></a>
   <a href="/images/111"><img src="/images/111" alt=""></a>
   <a href="/images/111"><img src="/images/111" alt=""></a>
-  <a href="/images/111"><img src="/images/111" alt=""></a>
-  <a href="/images/111"><img src="/images/111" alt=""></a>
-  <figcaption>『图』功能列表，线框图，交互原型，上线效果</figcaption>
+  <figcaption>『图』信息架构，控件模板库，交互原型，上线效果</figcaption>
 </figure>
 
 
