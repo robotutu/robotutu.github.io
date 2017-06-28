@@ -106,11 +106,15 @@ modified: 2017-06-26
 	<figcaption></figcaption>
 </figure>
 
-###### SkyCity AIN tag
+###### SkyCity - AIN tag(US)
 <figure>
 	<a href="/images/About/project_c.png"><img src="/images/About/project_c.png" alt="Tmall"></a>
 	<figcaption></figcaption>
 </figure>
+
+###### BrightBuy - Feedback(US)
+<iframe width="560" height="315" src="/images/About/project_d.mov" frameborder="0"> </iframe>
+
 
 ### 技能
 * **交互原型：** Axure RP，Sketch，Principle，纸笔
