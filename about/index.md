@@ -115,7 +115,7 @@ modified: 2017-06-26
 </figure>
 
 ##### BrightBuy - Feedback(US)
-<iframe width="560" height="315" src="http://v.youku.com/v_show/id_XMjg1NDUyOTM4MA" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="http://v.youku.com/v_show/id_XMjg1NDUyOTM4MA" autoPlay=false frameborder="0"> </iframe>
 
 ##### Operator Console
 <figure>
