@@ -108,7 +108,7 @@ modified: 2017-06-26
 
 ##### SkyCity - AIN tag(US)
 <figure>
-	<a href="/images/About/project_c.png"><img src="/images/About/project_c.png" alt="Tmall"></a>
+	<a href="/images/About/project_c.png"><img src="/images/About/project_c.png" alt="SkyCity"></a>
 	<figcaption></figcaption>
 </figure>
 
@@ -117,11 +117,15 @@ modified: 2017-06-26
 
 ##### Operator Console
 <figure>
-	<a href="/images/About/project_e.png"><img src="/images/About/project_e.png" alt="Tmall"></a>
+	<a href="/images/About/project_e.png"><img src="/images/About/project_e.png" alt="Operator Console"></a>
 	<figcaption></figcaption>
 </figure>
 
-
+##### 央视新闻客户端 - 可用性分析
+<figure>
+	<a href="/images/About/project_f.png"><img src="/images/About/project_f.png" alt="可用性分析"></a>
+	<figcaption></figcaption>
+</figure>
 
 ### 技能
 * **交互原型：** Axure RP，Sketch，Principle，纸笔
@@ -132,3 +136,5 @@ modified: 2017-06-26
 ### 更多
 * <a href="https://zhuanlan.zhihu.com/robotu" target="3_blank">知乎专栏：UX Road</a>
 * <a href="/韩旻锴_UXD_27岁.pdf" target="4_blank">下载文字版简历</a>
+* 13581688226
+* <a href="mailto:13581688226@163.com">13581688226@163.com</a>
