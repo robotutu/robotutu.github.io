@@ -130,13 +130,15 @@ modified: 2017-06-26
 </figure>
 
 ### 技能
-* **交互原型：** Axure RP，Sketch，Principle，纸笔
+* **交互原型：** Axure RP，Sketch，Principle，Adobe XD，纸笔
 * **信息架构：** XMind，MindManager，Excel
 * **其他工具：** Markdown，Git，Atom
 * **了解一些：** Origami，HTML，CSS
+* **⽣活娱乐：** 玩具，球鞋，乐队
 
 ### 更多
-* <a href="https://zhuanlan.zhihu.com/robotu" target="3_blank">知乎专栏：UX Road</a>
-* <a href="/韩旻锴_UXD_27岁.pdf" target="4_blank">下载文字版简历</a>
+* <a href="/韩旻锴_UXD_27岁.pdf" target="3_blank">下载文字版简历</a>
+* <a href="/韩旻锴_UXD_27岁_Portfolio.pdf" target="4_blank">下载图文版简历</a>
+* <a href="https://zhuanlan.zhihu.com/robotu" target="5_blank">知乎专栏：UX Road</a>
 * 13581688226
 * <a href="mailto:13581688226@163.com">13581688226@163.com</a>
