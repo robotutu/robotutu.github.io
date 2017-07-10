@@ -25,12 +25,12 @@ modified: 2017-06-26
 
 ### 项目
 
-#### Amazon Global Selling 全球开店网站重构
+#### Amazon Global Selling - 全球开店网站重构
 * Amazon  &nbsp;&nbsp;  2016.05 - 2017.04
-* 为国内卖家将产品售卖至其他国家提供更便捷的互联网服务
-* 负责梳理网站信息架构、页面设计和部分图标设计，并为客户提供用户及运营角度的建议
-* 在资源有限（图片版权、前端开发、内容运营）和技术限制的情况下，为客户的产品在短期内构建了良好的用户体验
-* 通过控件模板化，使得客户自行搭建的页面也能保持站内风格
+* 全球开店⽹站为国内卖家提供海外售卖服务
+* 负责梳理⽹站信息架构、⽹页交互设计及部分图标设计，并提供客户体验建议
+* 在资源有限（图⽚版权、前端开发、内容运营）和技术限制（集成式页⾯搭建）的情况下，为产品在短期内构建了良好的⽤户体验
+* 通过控件规范化，使得客户⾃⾏搭建的页⾯也能保持站内风格
 * <a href="https://gs.amazon.cn/" target="1_blank">访问网站</a>
 
 <figure class="half">
@@ -42,13 +42,13 @@ modified: 2017-06-26
 </figure>
 
 
-#### Responsive Shopping Assistant - My Card
-* Amazon  &nbsp;&nbsp;  2016.12 - 2017.02
-* 为 Amazon 零售应用的客户提供更便捷的信息展示：物流追踪、相关品类推荐等
-* 负责该模块界面交互设计及标注
-* Phase I 上线后 OPS(Order Product Sales) 数据有显著提升
-* 通过细节设计节省区块高度，满足产品运营需求
-* 手机下载 Amazon App，底部标签『我的』中可见
+#### Amazon Retail App - 『发现』&『我的』新功能及优化
+* Amazon  &nbsp;&nbsp;  2016.04 - 2017.03
+* 负责『发现』和『我的』中界⾯交互设计及尺⼨标注
+* 为 Amazon 零售应⽤的客户提供更便捷的信息展⽰
+* 参与新功能优化建议，数据反馈讨论验证设计
+* 所有新功能/模块上线后 OPS(Order Product Sales) 数据有显著提升
+* ⼿机下载 Amazon App，底部标签『发现』和『我的』
 
 <figure class="half">
   <a href="/images/About/project_11.png"><img src="/images/About/project_11.png" alt="设计效果"></a>
@@ -59,7 +59,7 @@ modified: 2017-06-26
 </figure>
 
 
-#### OneAPM产品界面
+#### OneAPM产品界面 - 各产品线界⾯交互设计
 * OneAPM  &nbsp;&nbsp;  2015.06 - 2016.03
 * 建立界面控件模板库
 * 与产品经理梳理产品结构、页面、功能
