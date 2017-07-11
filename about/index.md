@@ -77,7 +77,7 @@ modified: 2017-06-26
 </figure>
 
 
-#### 央视羊年春晚官网·CNTV
+#### 央视羊年春晚官网 - 网页设计
 * CNTV  &nbsp;&nbsp;  2014.12 - 2015.02
 * 与编辑讨论页面的栏目内容、功能模块
 * 梳理信息架构、确定功能框架、明确页面关系
@@ -128,6 +128,11 @@ modified: 2017-06-26
 	<a href="/images/About/project_f.png"><img src="/images/About/project_f.png" alt="可用性分析"></a>
 	<figcaption></figcaption>
 </figure>
+
+##### 更多项目罗列
+###### Amazon
+###### OneAPM
+###### CNTV
 
 ### 技能
 * **交互原型：** Axure RP，Sketch，Principle，Adobe XD，纸笔
